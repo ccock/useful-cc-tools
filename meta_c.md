@@ -1,0 +1,4 @@
+- [Metaprogramming custom control structures in C](https://www.chiark.greenend.org.uk/~sgtatham/mp/)
+- [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
+- [Advanced metaprogramming in C](https://250bpm.com/blog:56/)
+- [libmill](http://libmill.org/download.html)
